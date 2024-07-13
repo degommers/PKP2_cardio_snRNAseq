@@ -1,7 +1,8 @@
 # The transcriptional landscape of PPRE responsive genes in right ventricular heart nuclei between control and PKP2-cardiomyopathy
+This repository contains the scripts and guidelines for the analysis of public data. The project aimed to investigate the transcriptional landscape of right ventricular heart tissue between control and PKP2-cardiomyopathy in humans. All data was publically available and are listed down here. Analysis REAMDME's can be found in the appointed directory.
 ## PPRE responsive genes
 ### Datasets
-These datasets are used to establish a PPRE responsive geneset. Specific datasets on PPARs and RXRs, specific to heart and liver were found. 
+These datasets are used to establish a PPRE responsive geneset. Specific datasets on PPARs and RXRs, specific to the heart and liver were found. 
 | Data type  | Target          | Database                | Source ID   | Publication                                                       |
 |------------|-----------------|-------------------------|-------------|-------------------------------------------------------------------|
 | RNA-seq    | RNA             | GEO Expression Omnibus  | GSE160987   | Wickramasinghe NM et al., 2022 PMID: 35325615                     |
@@ -26,5 +27,8 @@ snRNAseq: [DCM heart atlas](https://github.com/heiniglab/DCM_heart_cell_atlas) (
 
 ### Analysis
 Reanalysis is performed using Seurat v5
+
+## Pipeline for download and reanalysis of snRNAseq .bam files
+A pipeline was created to reanalyse the .bam files of the DCM heart atlas with a newer version of the CellRanger Suite (v8.0.0). Due to time constraints and limited resources, this pipeline was not used during this project time. Still, the bash and python scripts can be found under directory 3_EGA_pipeline.
 
 
