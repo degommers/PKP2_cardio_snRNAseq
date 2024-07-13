@@ -2,7 +2,7 @@
 This repository contains the scripts and guidelines for the analysis of public data. The project aimed to investigate the transcriptional landscape of right ventricular heart tissue between control and PKP2-cardiomyopathy in humans. All data was publically available and are listed down here. Analysis REAMDME's can be found in the appointed directory.
 ## PPRE responsive genes
 ### Datasets
-These datasets are used to establish a PPRE responsive geneset. Specific datasets on PPARs and RXRs, specific to the heart and liver were found. 
+These datasets are used to establish a PPRE-responsive geneset. Specific datasets on PPARs and RXRs, specific to the heart and liver were found. 
 | Data type  | Target          | Database                | Source ID   | Publication                                                       |
 |------------|-----------------|-------------------------|-------------|-------------------------------------------------------------------|
 | RNA-seq    | RNA             | GEO Expression Omnibus  | GSE160987   | Wickramasinghe NM et al., 2022 PMID: 35325615                     |
@@ -18,6 +18,9 @@ These datasets are used to establish a PPRE responsive geneset. Specific dataset
 |            |                 |                         | MA00651.1   | Rauluseviciute I et al., 2023 doi:10.1093/nar/gkad1059            |
 | GO         | Proteins        | AmiGO                   | GO:0006635  |                                                                   |
 
+### Workflow
+![PPRE_workflow drawio](https://github.com/user-attachments/assets/3804459d-685f-40fc-baae-609e6a834c24)
+
 ### Analysis
 Collaboration with Tim van der Wiel
 
@@ -30,5 +33,10 @@ Reanalysis is performed using Seurat v5
 
 ## Pipeline for download and reanalysis of snRNAseq .bam files
 A pipeline was created to reanalyse the .bam files of the DCM heart atlas with a newer version of the CellRanger Suite (v8.0.0). Due to time constraints and limited resources, this pipeline was not used during this project time. Still, the bash and python scripts can be found under directory 3_EGA_pipeline.
+
+### Workflow
+![Bioinformatic_flowchart drawio](https://github.com/user-attachments/assets/a57b8b8a-18ed-4baa-8dde-4c17f9996891)
+
+
 
 
