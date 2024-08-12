@@ -1,0 +1,37 @@
+[libraries]
+sample_id,fastqs,feature_types
+BO_H07,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H07/LV0/fastq/BO_H07_LV0_premrna_0_1_H5KCHBBXY/,Gene Expression
+BO_H07,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H07/RV0/fastq/BO_H07_RV0_premrna_0_1_H2LHYBBXY/,Gene Expression
+BO_H07,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H07/S00/fastq/BO_H07_S00_premrna_0_1_H5KCHBBXY/,Gene Expression
+BO_H08,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H08/LV0/fastq/BO_H08_LV0_premrna_0_1_H2LHYBBXY/,Gene Expression
+BO_H08,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H08/LV1/fastq/BO_H08_LV1_premrna_0_1_HGF7YBBXY/,Gene Expression
+BO_H08,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H08/RV0/fastq/BO_H08_RV0_premrna_0_1_H5KCHBBXY/,Gene Expression
+BO_H08,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H08/S00/fastq/BO_H08_S00_premrna_0_1_H5KCHBBXY/,Gene Expression
+BO_H09,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H09/LV0/fastq/BO_H09_LV0_premrna_0_1_H2LHYBBXY/,Gene Expression
+BO_H09,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H09/RV0/fastq/BO_H09_RV0_premrna_0_1_H5KCHBBXY/,Gene Expression
+BO_H09,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H09/S00/fastq/BO_H09_S00_premrna_0_1_H2LHYBBXY/,Gene Expression
+BO_H10,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H10/LV0/fastq/BO_H10_LV0_premrna_0_1_H77JWBBXY/,Gene Expression
+BO_H10,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H10/RV0/fastq/BO_H10_RV0_premrna_0_1_H2LHYBBXY/,Gene Expression
+BO_H10,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H10/S00/fastq/BO_H10_S00_premrna_0_1_H2LHYBBXY/,Gene Expression
+BO_H11,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H11/LV0/fastq/BO_H11_LV0_premrna_0_1_H5KCHBBXY/,Gene Expression
+BO_H11,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H11/RV0/fastq/BO_H11_RV0_premrna_0_1_H2LHYBBXY/,Gene Expression
+BO_H11,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H11/S00/fastq/BO_H11_S00_premrna_0_1_H5KCHBBXY/,Gene Expression
+BO_H42,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H42/LV0/fastq/BO_H42_LV0_premrna_0_1_HCKWTBBXY/,Gene Expression
+BO_H42,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H42/S00/fastq/BO_H42_S00_premrna_0_1_H7V7JBBXY/,Gene Expression
+BO_H46,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H46/LV0/fastq/BO_H46_LV0_R2_premrna_0_1_H7V7JBBXY/,Gene Expression
+BO_H46,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H46/S00/fastq/BO_H46_S00_premrna_0_1_HCKWTBBXY/,Gene Expression
+BO_H49,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H49/LV0/fastq/BO_H49_LV0_premrna_0_1_H7V3KBBXY/,Gene Expression
+BO_H49,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H49/LV1/fastq/BO_H49_LV1_premrna_0_1_HGF7YBBXY/,Gene Expression
+BO_H49,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H49/RV0/fastq/BO_H49_RV0_premrna_0_1_HCLJJBBXY/,Gene Expression
+BO_H49,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H49/S0N/fastq/BO_H49_S0N_premrna_0_1_H7HHGBBXY/,Gene Expression
+BO_H51,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H51/LV0/fastq/BO_H51_LV0_premrna_0_1_HCLJJBBXY/,Gene Expression
+BO_H51,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H51/LV1/fastq/BO_H51_LV1_premrna_0_1_HGF7YBBXY/,Gene Expression
+BO_H51,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H51/S00/fastq/BO_H51_S00_premrna_0_1_HCLC5BBXY/,Gene Expression
+BO_H53,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H53/LV0/fastq/BO_H53_LV0_premrna_0_1_H7V3KBBXY/,Gene Expression
+BO_H53,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H53/RV0/fastq/BO_H53_RV0_premrna_0_1_H7CCTBBXY/,Gene Expression
+BO_H53,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H53/S00/fastq/BO_H53_S00_premrna_0_1_HCLJJBBXY/,Gene Expression
+BO_H55,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H55/LV0/fastq/BO_H55_LV0_premrna_0_1_H7CCTBBXY/,Gene Expression
+BO_H55,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H55/RV0/fastq/BO_H55_RV0_premrna_0_1_HCKWTBBXY/,Gene Expression
+BO_H55,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H55/S00/fastq/BO_H55_S00_premrna_0_1_HCLJJBBXY/,Gene Expression
+BO_H67,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H67/LV0/fastq/BO_H67_LV0_premrna_0_1_HFTHJBBXY/,Gene Expression
+BO_H67,/mnt/data/demi/snRNAseq_PKP2_control_samples/samples/BO_H67/S00/fastq/BO_H67_S00_premrna_0_1_HFTL2BBXY/,Gene Expression
