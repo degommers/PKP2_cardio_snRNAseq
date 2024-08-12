@@ -1,7 +1,7 @@
 library(DESeq2)
 library(tidyverse)
 
-GSE160987_20201015_Dubois_counts <- read.csv("~/Documents/COURSES/UU/MRP/GSE178984_GSE160987_dubois_atac_normcounts.txt/GSE160987_20201015_Dubois_counts.csv")
+GSE160987_20201015_Dubois_counts <- read.csv("GSE160987_20201015_Dubois_counts.csv")
 
 # Remove 'to date' converted gene names and empty gene symbol
 GSE160987_20201015_Dubois_counts_rm <- GSE160987_20201015_Dubois_counts %>%
@@ -19,7 +19,7 @@ GSE160987_matrix_28days <- GSE160987_matrix[,1:30]
 cols_GSSE160987 <- colnames(GSE160987_prep_rm)
 
 
-col_data_GSE160987 <- read.delim("~/Documents/COURSES/UU/MRP/GSE178984_GSE160987_dubois_atac_normcounts.txt/col_data_RNAseq_PPARd_paper.txt")
+col_data_GSE160987 <- read.delim("col_data_RNAseq_PPARd_paper.txt")
 
 col_data_GSE160987 <- col_data_GSE160987 %>%
   mutate(
