@@ -7,7 +7,7 @@ library(scales)
 library(DESeq2)
 
 # Read and preprocess gene expression data
-GSE160987_20201015_Dubois_counts <- read.csv("~/Documents/COURSES/UU/MRP/GSE178984_GSE160987_dubois_atac_normcounts.txt/GSE160987_20201015_Dubois_counts.csv")
+GSE160987_20201015_Dubois_counts <- read.csv("GSE160987_20201015_Dubois_counts.csv")
 
 # Filter out invalid gene symbols
 GSE160987_20201015_Dubois_counts_rm <- GSE160987_20201015_Dubois_counts %>%
@@ -24,7 +24,7 @@ GSE160987_matrix_28days <- GSE160987_matrix[, 1:30]
 GSE160987_matrix_28days[is.na(GSE160987_matrix_28days)] <- 0
 
 # Read and preprocess sample metadata
-col_data_GSE160987 <- read.delim("~/Documents/COURSES/UU/MRP/GSE178984_GSE160987_dubois_atac_normcounts.txt/col_data_RNAseq_PPARd_paper.txt") %>%
+col_data_GSE160987 <- read.delim("col_data_RNAseq_PPARd_paper.txt") %>%
   mutate(
     sample_name = str_replace_all(sample_name, "[^[:alnum:]]", "."),
     run = str_replace_all(run, "[^[:alnum:]]", "."),
