@@ -1,0 +1,31 @@
+sample_name	sample	treatment	run
+Control rep 1	Control	Control	Control rep 1
+Control rep 2	Control	Control	Control rep 2
+Control rep 3	Control	Control	Control rep 3
+GW0742 rep 1	GW0742	PPARd Ag	GW0742 rep 1
+GW0742 rep 2	GW0742	PPARd Ag	GW0742 rep 2
+GW0742 rep 3	GW0742	PPARd Ag	GW0742 rep 3
+GW0742 rep 4	GW0742	PPARd Ag	GW0742 rep 4
+LCFA rep 1	LCFA	LCFA	LCFA rep 1
+LCFA rep 2	LCFA	LCFA	LCFA rep 2
+LCFA rep 3	LCFA	LCFA	LCFA rep 3
+LCFA rep 4	LCFA	LCFA	LCFA rep 4
+LCFA + GW0742 rep 1	LCFA_GW0742	LCFA + PPARd Ag	LCFA + GW0742 rep 1
+LCFA + GW0742 rep 2	LCFA_GW0742	LCFA + PPARd Ag	LCFA + GW0742 rep 2
+LCFA + GW0742 rep 3	LCFA_GW0742	LCFA + PPARd Ag	LCFA + GW0742 rep 3
+LCFA + GW0742 rep 4	LCFA_GW0742	LCFA + PPARd Ag	LCFA + GW0742 rep 4
+WY14643 rep 1	WY14643	PPARa Ag	WY14643 rep 1
+WY14643 rep 2	WY14643	PPARa Ag	WY14643 rep 2
+WY14643 rep 3	WY14643	PPARa Ag	WY14643 rep 3
+LCFA + WY14643 rep 1	LCFA_WY14643	LCFA + PPARa Ag	LCFA + WY14643 rep 1
+LCFA + WY14643 rep 2	LCFA_WY14643	LCFA + PPARa Ag	LCFA + WY14643 rep 2
+LCFA + WY14643 rep 3	LCFA_WY14643	LCFA + PPARa Ag	LCFA + WY14643 rep 3
+Rosiglitazone rep 1	Rosiglitazone	PPARg Ag	Rosiglitazone rep 1
+Rosiglitazone rep 2	Rosiglitazone	PPARg Ag	Rosiglitazone rep 2
+Rosiglitazone rep 3	Rosiglitazone	PPARg Ag	Rosiglitazone rep 3
+LCFA + Rosiglitazone rep 1	LCFA_Rosiglitazone	LCFA + PPARg Ag	LCFA + Rosiglitazone rep 1
+LCFA + Rosiglitazone rep 2	LCFA_Rosiglitazone	LCFA + PPARg Ag	LCFA + Rosiglitazone rep 2
+LCFA + Rosiglitazone rep 3	LCFA_Rosiglitazone	LCFA + PPARg Ag	LCFA + Rosiglitazone rep 3
+GSK0660 rep 1	GSK0660	PPARd An	GSK0660 rep 1
+GSK0660 rep 2	GSK0660	PPARd An	GSK0660 rep 2
+GSK0660 rep 3	GSK0660	PPARd An	GSK0660 rep 3
